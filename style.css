@@ -234,6 +234,7 @@ nav a:hover {
   font-weight: 700;
   color: var(--hover-color);
   opacity: 30%;
+  text-shadow: 10px 5px 0 #afe7f5;
   line-height: 60px;
   margin-bottom: 20px;
 }
