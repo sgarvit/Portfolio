@@ -12,11 +12,11 @@ body {
   background-color: var(--bg-color);
 }
 :root {
-  --heading-color: #d4eaff;
-  --paragraph-color: #7d96b0;
+  --heading-color: #edf2f4;
+  --paragraph-color: #8d99ae;
   --hover-color: #7d96b06b;
   --btn-color: #5a95cc;
-  --bg-color: #2f3032;
+  --bg-color: #2b2d42;
 }
 .ubuntu-regular {
   font-family: "Ubuntu", sans-serif;
