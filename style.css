@@ -10,6 +10,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: var(--bg-color);
+  scroll-behavior: smooth;
 }
 :root {
   --heading-color: #edf2f4;
